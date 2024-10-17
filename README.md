@@ -34,11 +34,19 @@ First of all, download this [konsave config](https://mega.nz/file/F79WDCaS#Ywmar
 
 ### 🌎 Firefox
 
+> [!NOTE]
+> I am also using BetterFox user.js to enhance privacy and also minimize bloatware.
+
    1. Copy the two files inside `firefox/chrome-black` (`userChrome.css` & `userContent.css`)
    2. Open up Firefox. In the address bar, type `about:profiles`. Look for the one that says "This is the profile in use and it cannot be deleted.". Now click the "Open Directory" button (Root Directory).
    3. Create folder named `chrome`.
    4. Inside the `chrome` folder, paste the two files which we've copied.
    5. Restart Firefox.
+
+#### Theme
+
+1. Go inside the `firefox` folder and download the `monoff-black.xpi` file.
+2. This is a Firefox theme I made. To apply, open this with firefox and add it to Firefox.
 
 ## 👀 Screenshot Meta
 
