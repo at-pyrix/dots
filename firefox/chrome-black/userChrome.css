@@ -1,19 +1,78 @@
 
-.tab-background,
-.tab-loading-burst {
-border: none !important;
-border-radius: 10px !important;
+@-moz-document url-prefix(about) {
+  :root {
+    --newtab-background-color-secondary: #1a1a1a !important; /* Changed */
+    --color-gray-05: #fff !important;
+    --color-gray-05: #fefefe !important;
+    --color-gray-30: #cacaca !important;
+    --color-gray-50: #c9c9c9 !important;
+    --color-gray-60: #9d9d9d !important;
+    --color-gray-70: #666666 !important;
+    --color-gray-80: #2b2b2b !important;
+    --color-gray-90: #222222 !important;
+    --color-gray-100: #1a1a1a !important;
+    --color-cyan-20: white !important;
+    --color-cyan-30: white !important;
+    --color-cyan-50: white !important;
+    --in-content-accent-color: white !important;
+    --in-content-primary-button-background: white !important;
+    --in-content-primary-button-background-hover: white !important;
+    --in-content-primary-button-background-active: white !important;
+    --in-content-box-background: #000 !important; /* Changed */
+    --in-content-table-background: #000 !important; /* Changed */
+    --in-content-primary-button-background: white !important;
+    --in-content-primary-button-background-hover: white !important;
+    --in-content-primary-button-background-active: white !important;
+    --in-content-page-background: #000 !important; /* Changed */
+    --link-color: white !important;
+    --link-color-hover: white !important;
+  }
+
+  body {
+    filter: saturate(0) !important;
+  }
+
+    button {
+    border-radius: 2rem !important;
+  }
+
+    .logo-and-wordmark {
+    opacity: 0 !important;
+    display: hidden !important;
+  }
 }
 
-.tab-line { display: none !important; }
-#urlbar, .searchbar-textbox{
-    border-radius: 16px !important;
+
+@-moz-document url-prefix(about:blank) {
+  * {
+    background-color: #000 !important;
+  }
 }
 
-.urlbarView-row:not([type="tip"], [type="dynamic"])[selected] > .urlbarView-row-inner, .urlbarView-url {
-    color: white !important;
+@-moz-document url-prefix(about:home) {
+  :root {
+    --newtab-background-color-secondary: #1a1a1a !important; /* Changed */
+    --newtab-primary-action-background: white !important;
+  }
+
+  button {
+    border-radius: 2rem !important;
+  }
+
 }
 
-#urlbar-background, #urlbar[breakout][breakout-extend] > #urlbar-background:focus-within, #searchbar:focus-within {
-    border-radius: 16px !important;
+@-moz-document url-prefix(about:preferences) {
+  :root {
+    --in-content-box-background: #000 !important; /* Changed */
+    --in-content-table-background: #000 !important; /* Changed */
+    --in-content-primary-button-background: white !important;
+    --in-content-primary-button-background-hover: white !important;
+    --in-content-primary-button-background-active: white !important;
+    --in-content-page-background: #000 !important; /* Changed */
+    --link-color: white !important;
+    --link-color-hover: white !important;
+    --color-cyan-20: white !important;
+    --color-cyan-30: white !important;
+    --color-cyan-50: white !important;
+  }
 }
