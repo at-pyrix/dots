@@ -1,0 +1,7 @@
+/etc/locale.conf: line 7: warning: setlocale: LC_NUMERIC: cannot change locale (en_IN): No such file or directory
+/etc/locale.conf: line 10: warning: setlocale: LC_TIME: cannot change locale (en_IN): No such file or directory
+X Error of failed request:  BadName (named color or font does not exist)
+  Major opcode of failed request:  140 (RANDR)
+  Minor opcode of failed request:  11 (RRQueryOutputProperty)
+  Serial number of failed request:  33
+  Current serial number in output stream:  33

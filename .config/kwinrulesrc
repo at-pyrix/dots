@@ -1,0 +1,12 @@
+[4d39d87f-51a3-4db4-b28b-5218977d17ff]
+Description=Center
+placementrule=2
+types=9
+wmclasscomplete=true
+
+[8cb3df1c-7836-49e9-ac54-b75587d98768]
+noborderrule=2
+
+[General]
+count=1
+rules=4d39d87f-51a3-4db4-b28b-5218977d17ff

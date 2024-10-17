@@ -1,0 +1,65 @@
+1366x768 screen: Height=704
+1366x768 screen: Width=1346
+1366x768 screen: XPosition=10
+1366x768 screen: YPosition=54
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAXwBAAAD+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABFQEAAAMAAAVCAAACkgAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAOj/////AAAAAAAAAAA=
+VGA1=VGA1
+
+[Desktop Entry]
+DefaultProfile=Default.profile
+
+[FileLocation]
+scrollbackUseCacheLocation=true
+scrollbackUseSystemLocation=false
+
+[General]
+ConfigVersion=1
+
+[KFileDialog Settings]
+iconViewIconSize=64
+
+[KonsoleWindow]
+FocusFollowsMouse=true
+RemoveWindowTitleBarAndFrame=false
+
+[MainWindow]
+1366x768 screen: Height=708
+1366x768 screen: Width=1346
+1366x768 screen: XPosition=10
+1366x768 screen: YPosition=50
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+ToolBarsMovable=Disabled
+VGA-1=VGA-1
+VGA-1 Height 1366x768=709
+VGA-1 Height 1366x768 VGA-1=358
+VGA-1 Width 1366x768=659
+VGA-1 Width 1366x768 VGA-1=671
+VGA-1 XPosition 1366x768=691
+VGA-1 XPosition 1366x768 VGA-1=687
+VGA-1 YPosition 1366x768=43
+VGA-1 YPosition 1366x768 VGA-1=401
+VGA1=VGA1
+default Height 1368x768=498
+default Width 1368x768=957
+default XPosition 1368x768=376
+default YPosition 1368x768=157
+
+[Notification Messages]
+CloseAllTabs=true
+ShowPasteHugeTextWarning=false
+
+[SplitView]
+SplitViewVisibility=AlwaysHideSplitHeader
+
+[TabBar]
+NewTabBehavior=PutNewTabAfterCurrentTab
+TabBarPosition=Top
+TabBarVisibility=AlwaysHideTabBar
+
+[ThumbnailsSettings]
+ThumbnailCtrl=true
+
+[UiSettings]
+ColorScheme=Breeze Dark

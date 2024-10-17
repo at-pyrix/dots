@@ -1,0 +1,6 @@
+@import 'colors.css';
+
+decoration {
+    border: 1px solid grey;
+    background : black;
+}

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg
+    xmlns="http://www.kde.org/standards/kcfg/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name="" />
+  <group name="General">
+    <entry name="isEnabled" type="Bool">
+      <default>True</default>
+    </entry>
+    <entry name="hideWidget" type="Bool">
+      <default>False</default>
+    </entry>
+    <!-- Show blur
+        0: when existing a maximized or full-screen windows
+        1: when a visible window is active
+        2: when a window is visible
+        3: video is paused
+        4: always
+        5: never
+    -->
+    <entry name="BlurMode" type="Int">
+      <default>1</default>
+    </entry>
+    <entry name="CheckActiveScreen" type="Bool">
+      <label>Whether or not check for windows from all screens instead of just the active one.</label>
+      <default>true</default>
+    </entry>
+    <entry name="BlurRadius" type="Int">
+      <default>64</default>
+    </entry>
+    <entry name="borderEnabled" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="borderColor" type="String">
+      <default>#000000</default>
+    </entry>
+    <entry name="borderRadius" type="Int">
+      <default>16</default>
+    </entry>
+    <entry name="borderMarginTop" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="borderMarginBottom" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="borderMarginLeft" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="borderMarginRight" type="Int">
+      <default>0</default>
+    </entry>
+    <!-- color modes: custom, system -->
+    <entry
+        name="borderColorMode"
+        type="Int">
+        <default>0</default>
+    </entry>
+    <entry
+        name="borderColorModeTheme"
+        type="Int">
+        <default>9</default>
+    </entry>
+    <entry
+        name="borderColorModeThemeVariant"
+        type="Int">
+        <default>0</default>
+    </entry>
+    <entry
+        name="brightness"
+        type="Double">
+        <default>0.0</default>
+    </entry>
+    <entry
+        name="contrast"
+        type="Double">
+        <default>0.0</default>
+    </entry>
+    <entry
+        name="saturation"
+        type="Double">
+        <default>0.0</default>
+    </entry>
+    <entry
+        name="colorization"
+        type="Double">
+        <default>0.0</default>
+    </entry>
+    <entry
+        name="colorizationColor"
+        type="String">
+        <default>#1A7597</default>
+    </entry>
+    <!-- color modes: custom, system -->
+    <entry
+        name="colorizationColorMode"
+        type="Int">
+        <default>0</default>
+    </entry>
+    <entry
+        name="colorizationColorModeTheme"
+        type="Int">
+        <default>10</default>
+    </entry>
+    <entry
+        name="colorizationColorModeThemeVariant"
+        type="Int">
+        <default>0</default>
+    </entry>
+    <!-- Show color effects
+        0: when existing a maximized or full-screen windows
+        1: when a visible window is active
+        2: when a window is visible
+        3: video is paused
+        4: always
+        5: never
+    -->
+    <entry name="colorEffectsMode" type="Int">
+      <default>1</default>
+    </entry>
+
+    <!-- Desktop effects -->
+    <entry name="effectsHideBlur" type="String">
+      <default>windowaperture,overview</default>
+    </entry>
+    <entry name="effectsShowBlur" type="String">
+      <default></default>
+    </entry>
+    <entry name="effectsHideColorization" type="String">
+      <default></default>
+    </entry>
+    <entry name="effectsShowColorization" type="String">
+      <default></default>
+    </entry>
+    <entry name="effectsHideBorder" type="String">
+      <default>overview</default>
+    </entry>
+    <entry name="effectsShowBorder" type="String">
+      <default></default>
+    </entry>
+    <entry name="qdbusExecName" type="String">
+
+      <default>qdbus6</default>
+    </entry>
+  </group>
+</kcfg>

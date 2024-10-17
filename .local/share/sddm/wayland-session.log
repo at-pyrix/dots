@@ -1,0 +1,6 @@
+Error: could not determine $DISPLAY.
+Error: Can not contact kdeinit5!
+org.kde.startup: "kdeinit5_shutdown" QList() exited with code 255
+startplasma-wayland: Shutting down...
+startplasmacompositor: Shutting down...
+startplasmacompositor: Done.

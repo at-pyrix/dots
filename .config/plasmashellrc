@@ -1,0 +1,153 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAb0AAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAwwAAAAEAAAAAAAAD6AAAAABk
+
+[Applets][284][Configuration]
+PreloadWeight=42
+
+[ConfigDialog]
+VGA-1 Height 1366x768=511
+VGA-1 Width 1366x768=573
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+detailViewIconSize=48
+
+[KPropertiesDialog]
+1366x768 screen: Height=520
+1366x768 screen: Width=641
+VGA-1 Height 1366x768=461
+VGA-1 Height 1366x768 VGA-1=539
+VGA-1 Width 1366x768=419
+VGA-1 Width 1366x768 VGA-1=405
+
+[Notification Messages]
+klipperClearHistoryAskAgain=false
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[PlasmaViews][Panel 139]
+floating=1
+panelOpacity=0
+panelVisibility=0
+
+[PlasmaViews][Panel 139][Defaults]
+thickness=45
+
+[PlasmaViews][Panel 142]
+floating=0
+
+[PlasmaViews][Panel 142][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 166]
+floating=0
+
+[PlasmaViews][Panel 166][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 190]
+floating=0
+
+[PlasmaViews][Panel 190][Defaults]
+thickness=52
+
+[PlasmaViews][Panel 191]
+alignment=132
+floating=1
+panelLengthMode=2
+panelOpacity=2
+panelVisibility=0
+
+[PlasmaViews][Panel 191][Defaults]
+maxLength=378
+minLength=142
+thickness=44
+
+[PlasmaViews][Panel 191][Horizontal1366]
+maxLength=378
+minLength=142
+
+[PlasmaViews][Panel 2]
+alignment=132
+floating=0
+panelOpacity=1
+panelVisibility=1
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 203]
+floating=1
+panelLengthMode=2
+
+[PlasmaViews][Panel 203][Defaults]
+maxLength=686
+minLength=686
+offset=49
+thickness=38
+
+[PlasmaViews][Panel 203][Vertical768]
+maxLength=686
+minLength=686
+offset=49
+
+[PlasmaViews][Panel 24]
+alignment=132
+floating=0
+panelLengthMode=0
+panelOpacity=1
+panelVisibility=0
+
+[PlasmaViews][Panel 24][Defaults]
+maxLength=1281
+minLength=944
+thickness=36
+
+[PlasmaViews][Panel 24][Horizontal1366]
+maxLength=1281
+minLength=944
+
+[PlasmaViews][Panel 251]
+floating=1
+
+[PlasmaViews][Panel 251][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 253]
+floating=1
+
+[PlasmaViews][Panel 253][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 278]
+alignment=132
+floating=1
+
+[PlasmaViews][Panel 278][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 310]
+alignment=132
+floating=1
+panelLengthMode=1
+panelOpacity=2
+panelVisibility=1
+
+[PlasmaViews][Panel 310][Defaults]
+minLength=473
+thickness=52
+
+[PlasmaViews][Panel 310][Horizontal1366]
+minLength=473
+
+[PlasmaViews][Panel 708][Defaults]
+thickness=32
+
+[ScreenConnectors]
+0=VGA-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/folderview_fix_recursive_screenmapping.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_showseconds_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/migrate_font_weights.js

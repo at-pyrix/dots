@@ -1,0 +1,212 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0.5
+ColorEffect=1
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=47,47,47
+BackgroundNormal=26,26,26
+DecorationFocus=57,57,57
+DecorationHover=57,57,57
+ForegroundActive=57,57,57
+ForegroundInactive=199,199,199
+ForegroundLink=189,189,189
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus=57,57,57
+DecorationHover=57,57,57
+ForegroundActive=57,57,57
+ForegroundInactive=136,136,136
+ForegroundLink=189,189,189
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal=222,222,222
+ForegroundPositive=17,209,22
+ForegroundVisited=49,91,239
+
+[Colors:Header]
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus=57,57,57
+DecorationHover=57,57,57
+ForegroundActive=57,57,57
+ForegroundInactive=136,136,136
+ForegroundLink=189,189,189
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal=222,222,222
+ForegroundPositive=17,209,22
+ForegroundVisited=49,91,239
+
+[Colors:Header][Inactive]
+BackgroundAlternate=60,60,60
+BackgroundNormal=45,45,45
+DecorationHover=49,91,239
+ForegroundActive=246,116,0,150
+ForegroundInactive=136,136,136,150
+ForegroundLink=49,91,239
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal=222,222,222,150
+ForegroundPositive=17,209,22
+ForegroundVisited=49,91,239
+
+[Colors:Selection]
+BackgroundAlternate=39,39,39
+BackgroundNormal=39,39,39
+DecorationFocus=57,57,57
+DecorationHover=57,57,57
+ForegroundActive=57,57,57
+ForegroundInactive=255,255,255
+ForegroundLink=42,42,42
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=255,255,255
+ForegroundPositive=39,174,96
+ForegroundVisited=128,152,239
+
+[Colors:Tooltip]
+BackgroundAlternate=77,77,77
+BackgroundNormal=22,22,22
+DecorationFocus=57,57,57
+DecorationHover=57,57,57
+ForegroundActive=57,57,57
+ForegroundInactive=189,195,199
+ForegroundLink=189,189,189
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=48,48,48
+BackgroundNormal=0,0,0
+DecorationFocus=57,57,57
+DecorationHover=57,57,57
+ForegroundActive=57,57,57
+ForegroundInactive=136,136,136
+ForegroundLink=189,189,189
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=120,120,120
+
+[Colors:Window]
+BackgroundAlternate=39,39,39
+BackgroundNormal=0,0,0
+DecorationFocus=57,57,57
+DecorationHover=57,57,57
+ForegroundActive=57,57,57
+ForegroundInactive=136,136,136
+ForegroundLink=189,189,189
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=120,120,120
+
+[DirSelect Dialog]
+DirSelectDialog Size=1060,582
+
+[General]
+AccentColor=57,57,57
+BrowserApplication=chromium.desktop
+ColorSchemeHash=625defbee8adea409042478e8d65c959cf42495c
+LastUsedCustomAccentColor=57,57,57
+UseSystemBell=true
+XftAntialias=true
+XftHintStyle=hintnone
+XftSubPixel=none
+fixed=JetBrainsMono NFP,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular
+font=SF Pro Display,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Medium
+menuFont=SF Pro Display,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Medium
+smallestReadableFont=SF Pro Display,8,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Medium
+toolBarFont=SF Pro Display,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Medium
+
+[Icons]
+Theme=Tela-circle-black-dark
+
+[KDE]
+AnimationDurationFactor=0.25
+LookAndFeelPackage=org.kde.breezedark.desktop
+ScrollbarLeftClickNavigatesByPage=false
+ShowDeleteCommand=false
+SingleClick=false
+widgetStyle=Breeze
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Date
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=109
+View Style=Detail
+
+[KScreen]
+ScreenScaleFactors=VGA-1=1;HDMI-1=1;DP-1=1;HDMI-2=1;DP-2=1;
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[Locale]
+BinaryUnitDialect=2
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[Shortcuts]
+FullScreen=F11
+Redo=Ctrl+Shift+Z; Ctrl+Y
+
+[WM]
+activeBackground=0,0,0
+activeBlend=0,0,0
+activeFont=SF Pro Display,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Medium
+activeForeground=255,255,255
+frame=255,255,255
+inactiveBackground=0,0,0
+inactiveBlend=0,0,0
+inactiveForeground=176,176,176
+inactiveFrame=0,0,0

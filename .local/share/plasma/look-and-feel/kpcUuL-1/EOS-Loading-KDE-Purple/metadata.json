@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "michaelcurtis5787@gmail.com",
+                "Name": "Smokey"
+            }
+        ],
+        "Category": "",
+        "Description": "EndeavourOS Splashscreen for Plasma 6",
+        "Id": "EOS-Loading-KDE-Purple",
+        "License": "GPLv3",
+        "Name": "EOS Loading Purple",
+        "Website": ""
+    },
+    "Keywords": "Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2"
+}
+

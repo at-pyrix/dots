@@ -1,0 +1,19 @@
+
+.tab-background,
+.tab-loading-burst {
+border: none !important;
+border-radius: 10px !important;
+}
+
+.tab-line { display: none !important; }
+#urlbar, .searchbar-textbox{
+    border-radius: 16px !important;
+}
+
+.urlbarView-row:not([type="tip"], [type="dynamic"])[selected] > .urlbarView-row-inner, .urlbarView-url {
+    color: white !important;
+}
+
+#urlbar-background, #urlbar[breakout][breakout-extend] > #urlbar-background:focus-within, #searchbar:focus-within {
+    border-radius: 16px !important;
+}

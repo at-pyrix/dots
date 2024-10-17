@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "michaelcurtis5787@gmail.com",
+                "Name": "Smokey"
+            }
+        ],
+        "Category": "",
+        "Description": "EndeavourOS Splashscreen for Plasma 6",
+        "Id": "EOS-Loading-KDE",
+        "License": "GPLv3",
+        "Name": "EOS Loading",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+

@@ -1,0 +1,94 @@
+@-moz-document url-prefix(about:blank) {
+  * {
+    background-color: #232323 !important;
+  }
+  :root {
+    --color-gray-05: #fff !important;
+    --color-gray-30: #c7c7c7 !important;
+    --color-gray-50: #c7c7c7 !important;
+    --color-gray-60: #969696 !important;
+    --color-gray-70: #636363 !important;
+    --color-gray-80: #292929 !important;
+    --color-gray-90: #1a1a1a !important;
+    --color-gray-100: #333 !important;
+  }
+}
+
+@-moz-document url-prefix(about:home) {
+  :root {
+    --newtab-background-color-secondary: #333 !important;
+    --newtab-primary-action-background: white !important;
+  }
+
+    :root {
+    --color-gray-05: #fff !important;
+    --color-gray-30: #c7c7c7 !important;
+    --color-gray-50: #c7c7c7 !important;
+    --color-gray-60: #969696 !important;
+    --color-gray-70: #636363 !important;
+    --color-gray-80: #292929 !important;
+    --color-gray-90: #1a1a1a !important;
+    --color-gray-100: #333 !important;
+  }
+
+  button {
+    border-radius: 2rem !important;
+  }
+}
+
+@-moz-document url-prefix(about)
+               {
+    :root {
+    --color-gray-05: #fff !important;
+    --color-gray-30: #c7c7c7 !important;
+    --color-gray-50: #c7c7c7 !important;
+    --color-gray-60: #969696 !important;
+    --color-gray-70: #636363 !important;
+    --color-gray-80: #292929 !important;
+    --color-gray-90: #1a1a1a !important;
+    --color-gray-100: #333 !important;
+    --color-cyan-20: white !important;
+    --color-cyan-30: white !important;
+    --color-cyan-50: white !important;
+    --in-content-accent-color: white !important;
+    --in-content-primary-button-background: white !important;
+    --in-content-primary-button-background-hover: white !important;
+    --in-content-primary-button-background-active: white !important;
+    --in-content-box-background: rgb(45, 45, 45) !important;
+    --in-content-table-background: rgb(36, 36, 36) !important;
+    --in-content-primary-button-background: white !important;
+    --in-content-primary-button-background-hover: white !important;
+    --in-content-primary-button-background-active: white !important;
+    --in-content-page-background: #232323 !important;
+    --link-color:white !important;
+    --link-color-hover: white !important;
+
+    }
+}
+
+@-moz-document url-prefix(about:preferences) {
+  :root {
+    --in-content-box-background: rgb(45, 45, 45) !important;
+    --in-content-table-background: rgb(36, 36, 36) !important;
+    --in-content-primary-button-background: white !important;
+    --in-content-primary-button-background-hover: white !important;
+    --in-content-primary-button-background-active: white !important;
+    --in-content-page-background: #232323 !important;
+    --link-color:white !important;
+    --link-color-hover: white !important;
+    --color-cyan-20: white !important;
+    --color-cyan-30: white !important;
+    --color-cyan-50: white !important;
+  }
+
+    :root {
+    --color-gray-05: #fff !important;
+    --color-gray-30: #c7c7c7 !important;
+    --color-gray-50: #c7c7c7 !important;
+    --color-gray-60: #969696 !important;
+    --color-gray-70: #636363 !important;
+    --color-gray-80: #292929 !important;
+    --color-gray-90: #1a1a1a !important;
+    --color-gray-100: #333 !important;
+  }
+}

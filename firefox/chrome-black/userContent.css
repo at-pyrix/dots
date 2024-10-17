@@ -1,0 +1,97 @@
+@-moz-document url-prefix(about:blank) {
+  * {
+    background-color: #000 !important;
+  }
+  :root {
+    --color-gray-05: #fff !important;
+    --color-gray-30: #000 !important; /* Changed */
+    --color-gray-50: #000 !important; /* Changed */
+    --color-gray-60: #000 !important; /* Changed */
+    --color-gray-70: #000 !important; /* Changed */
+    --color-gray-80: #000 !important; /* Changed */
+    --color-gray-90: #000 !important; /* Changed */
+    --color-gray-100: #000 !important; /* Changed */
+  }
+}
+
+@-moz-document url-prefix(about:home) {
+  :root {
+    --newtab-background-color-secondary: #1a1a1a !important; /* Changed */
+    --newtab-primary-action-background: white !important;
+  }
+
+  :root {
+    --color-gray-05: #fff !important;
+    --color-gray-30: #000 !important; /* Changed */
+    --color-gray-50: #000 !important; /* Changed */
+    --color-gray-60: #000 !important; /* Changed */
+    --color-gray-70: #000 !important; /* Changed */
+    --color-gray-80: #000 !important; /* Changed */
+    --color-gray-90: #000 !important; /* Changed */
+    --color-gray-100: #000 !important; /* Changed */
+  }
+
+  button {
+    border-radius: 2rem !important;
+  }
+}
+
+@-moz-document url-prefix(about) {
+  :root {
+    --newtab-background-color-secondary: #1a1a1a !important; /* Changed */
+    --color-gray-05: #fff !important;
+    --color-gray-30: #000 !important; /* Changed */
+    --color-gray-50: #000 !important; /* Changed */
+    --color-gray-60: #000 !important; /* Changed */
+    --color-gray-70: #000 !important; /* Changed */
+    --color-gray-80: #000 !important; /* Changed */
+    --color-gray-90: #000 !important; /* Changed */
+    --color-gray-100: #000 !important; /* Changed */
+    --color-cyan-20: white !important;
+    --color-cyan-30: white !important;
+    --color-cyan-50: white !important;
+    --in-content-accent-color: white !important;
+    --in-content-primary-button-background: white !important;
+    --in-content-primary-button-background-hover: white !important;
+    --in-content-primary-button-background-active: white !important;
+    --in-content-box-background: #000 !important; /* Changed */
+    --in-content-table-background: #000 !important; /* Changed */
+    --in-content-primary-button-background: white !important;
+    --in-content-primary-button-background-hover: white !important;
+    --in-content-primary-button-background-active: white !important;
+    --in-content-page-background: #000 !important; /* Changed */
+    --link-color: white !important;
+    --link-color-hover: white !important;
+  }
+
+    button {
+    border-radius: 2rem !important;
+  }
+}
+
+@-moz-document url-prefix(about:preferences) {
+  :root {
+    --in-content-box-background: #000 !important; /* Changed */
+    --in-content-table-background: #000 !important; /* Changed */
+    --in-content-primary-button-background: white !important;
+    --in-content-primary-button-background-hover: white !important;
+    --in-content-primary-button-background-active: white !important;
+    --in-content-page-background: #000 !important; /* Changed */
+    --link-color: white !important;
+    --link-color-hover: white !important;
+    --color-cyan-20: white !important;
+    --color-cyan-30: white !important;
+    --color-cyan-50: white !important;
+  }
+
+  :root {
+    --color-gray-05: #fff !important;
+    --color-gray-30: #000 !important; /* Changed */
+    --color-gray-50: #000 !important; /* Changed */
+    --color-gray-60: #000 !important; /* Changed */
+    --color-gray-70: #000 !important; /* Changed */
+    --color-gray-80: #000 !important; /* Changed */
+    --color-gray-90: #000 !important; /* Changed */
+    --color-gray-100: #000 !important; /* Changed */
+  }
+}
