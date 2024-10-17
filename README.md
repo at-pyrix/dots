@@ -27,7 +27,7 @@ There are the configuration files for my KDE Plasma setup as featured on [Reddit
 First of all, download this [konsave config](https://mega.nz/file/F79WDCaS#Ywmar72a-wkqZ4pgAiTe9p0L3kI73kXI64lTSYqdsmA).
 
 1. Install [konsave](https://github.com/Prayag2/konsave)
-2. Fire up a terminal, type "konsave -i /path/to/black.knsv"
+2. Fire up a terminal, type `konsave -i "/path/to/black.knsv"`
 3. Check if "black" appears in `konsave -l`.
 4. Type `konsave -a black` to apply the theme.
 5. Restart your computer.
