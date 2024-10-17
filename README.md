@@ -10,10 +10,10 @@ There are the configuration files for my KDE Plasma setup as featured on [Reddit
 
 ## ✅ Installation
 
-### 👉🏻 Method-1: Copying dotfiles
-
 > [!NOTE]
 > Make a backup of your `~` directory first!
+
+### 👉🏻 Method-1: Copying dotfiles
 
    ```
    git clone https://github.com/at-pyrix/dots/
