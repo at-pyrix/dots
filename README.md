@@ -13,6 +13,9 @@ There are the configuration files for my KDE Plasma setup as featured on [Reddit
 > [!NOTE]
 > Make a backup of your `~` directory first!
 
+> [!TIP]
+> If you want to, you can choose to greyscale the entire desktop using this [Desktop Effect](https://github.com/lliurex/kwin-grayscale-effect). I currently have this enabled.
+
 ### 👉🏻 Method-1: Copying dotfiles
 
    ```
