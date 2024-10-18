@@ -14,7 +14,9 @@ There are the configuration files for my KDE Plasma setup as featured on [Reddit
 > Make a backup of your `~` directory first!
 
 > [!TIP]
-> If you want to, you can choose to greyscale the entire desktop using this [Desktop Effect](https://github.com/lliurex/kwin-grayscale-effect). I currently have this enabled.
+> If you want to, you can choose to make the entire desktop monochrome using this [Desktop Effect](https://github.com/lliurex/kwin-grayscale-effect). I currently have this enabled.
+> 
+> To toggle this with a keyboard binding, check [this](https://github.com/murat-cileli/kwin-grayscale-effect/issues/2#issuecomment-1637052828) out.
 
 ### 👉🏻 Method-1: Copying dotfiles
 
