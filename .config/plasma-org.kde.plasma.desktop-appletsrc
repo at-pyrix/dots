@@ -990,10 +990,6 @@ eventStartingSfxPath=file:///home/notyasho/Downloads/Sounds/calma.mp3
 [Containments24Appletsts][214][Configuration][General]
 showBackground=false
 
-[Containments24Appletsts][214][Configuration][Google Calendar]
-accessToken=ya29.a0AfB_byCvlzj_R437tqbANXem55D3tYiTXw-zNmOa6o6q3ANAuq08rHHRgTsBRi3qrpHP0Bxf3XYu93sL25EV5MGi_4uHeEWtUEV-qrHsXxo88h8wun3UtqCjm-_bNr3RXnO98UlRvTpWKj6-XPj6RCn3YAf8m4du6lW_aCgYKAfQSARMSFQHGX2MiGKnKpCLuNaSJ1qR4mKCMtw0171
-accessTokenExpiresAt=4192369353
-
 [Containments24Appletsts][248][Configuration][General]
 clock_fontfamily=Product Sans Medium
 do_not_disturb_enabled=true
