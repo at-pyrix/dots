@@ -80,3 +80,7 @@ First of all, download this [konsave config](https://mega.nz/file/F79WDCaS#Ywmar
 ### Other
 
 [Wallpaper](wallpaper.png)
+
+---
+
+_No further changes will be made to this repo, so as to match the original screenshots :) Therefore, this repo has been archived._
